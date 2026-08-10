@@ -27,7 +27,7 @@ There are two pieces that mount to the tent. One of them is a flat piece that go
 
 # To Do
 
-- There is one more piece that I need to make. It needs to connect the hose to the fan part, but I was in a rush to get this done so I used HVAC tape. V2 of this system will have that.
+- ~~There is one more piece that I need to make. It needs to connect the hose to the fan part, but I was in a rush to get this done so I used HVAC tape. V2 of this system will have that.~~ Piece has been made! Just slide it on. 
 
 # Bonus
 
@@ -41,14 +41,18 @@ There are two pieces that mount to the tent. One of them is a flat piece that go
 
 ![Assembly view 2](Images/assembly2.png)
 
-## 70 mm to 4 inch adapter
+## TentToHose
 
-![70 mm to 4 inch adapter](Images/70mmTo4in.png)
+![TentToHose](Images/TentToHose.png)
 
-## Hose connector
+## OuterTentPiece
 
-![Hose connector](Images/HoseConnector.png)
+![OuterTentPiece](Images/OuterTentPiece.png)
 
-## Inside tent mount
+## InsideTentMount
 
-![Inside tent mount](Images/InsideTentMount.png)
+![InsideTentMount](Images/InsideTentMount.png)
+
+## TentToHose
+
+![InsideTentMount](Images/TentToHose.png)
