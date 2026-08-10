@@ -27,7 +27,7 @@ There are two pieces that mount to the tent. One of them is a flat piece that go
 
 # To Do
 
-- ~~There is one more piece that I need to make. It needs to connect the hose to the fan part, but I was in a rush to get this done so I used HVAC tape. V2 of this system will have that.~~ Piece has been made! Just slide it on. 
+- ~~There is one more piece that I need to make. It needs to connect the hose to the fan part, but I was in a rush to get this done so I used HVAC tape. V2 of this system will have that.~~ Piece has been made! Just slide it on. You can use HVAC tape if you need to secure it (Although pretty much any tape will work.)
 
 # Bonus
 
@@ -53,6 +53,6 @@ There are two pieces that mount to the tent. One of them is a flat piece that go
 
 ![InsideTentMount](Images/InsideTentMount.png)
 
-## TentToHose
+## HoseToFan
 
-![InsideTentMount](Images/TentToHose.png)
+![InsideTentMount](Images/HoseToFan.png)
